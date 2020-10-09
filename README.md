@@ -1,8 +1,6 @@
 # Dog Breed Classification Using TF-2.0 and Keras.
 
 Dog Breed Classification Using TF-2.0 and Keras.
-
-# Dog-Breed-Classifier-using-TF2.0
 A simple classification model which takes the advantage of transfer learning to train the model to identify the dog images.
 
 # Dataset
